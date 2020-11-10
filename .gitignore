@@ -6,6 +6,7 @@ src/
 .env
 LICENSE
 Makefile
+notebooks/.ipynb_checkpoints
 requirements.txt
 setup.py
 test_environment.py
