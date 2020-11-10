@@ -4,7 +4,6 @@ references/
 reports/
 src/
 .env
-LICENSE
 Makefile
 notebooks/.ipynb_checkpoints
 requirements.txt
