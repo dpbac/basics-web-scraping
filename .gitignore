@@ -11,6 +11,11 @@ setup.py
 test_environment.py
 tox.ini
 
+images/all_paragraphs_movies.JPG
+images/parser_output.JPG
+images/tbody_films.JPG
+images/tbody_songs.JPG
+images/35925-JamesBond-S2-DanielCraig-Spectre-POP-GLAM_WEB_400x450.JPG
 
 
 
