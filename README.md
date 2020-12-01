@@ -1,4 +1,4 @@
-# Basics on Web Scraping
+# Basics on Web Scraping :mag_right:
 
 ![](https://github.com/dpbac/basics-web-scraping/blob/master/images/webpage_webscraping.JPG)
 
@@ -10,7 +10,7 @@ The [notebook](https://github.com/dpbac/basics-web-scraping/blob/master/notebook
 
 A [blog](https://medium.com/p/12eba03bed1d/edit) was also written with the same but more compact presentation.
 
-## Tools
+:wrench: ## Tools
 
 * [`requests`](https://requests.readthedocs.io/en/master/): HTTP library for Python that allows us to send HTTP requests in a simple way.
 
@@ -19,7 +19,7 @@ the information we need to retrieve.
 
 Some knowledge on lists, list comprehension, and string methods are also very helpful.
 
-## Install requirements
+:computer: ## Install requirements
 * Install requirements using `pip install -r requirements.txt`.
   * Make sure you use Python 3.
   * You may want to use a virtual environment for this.
