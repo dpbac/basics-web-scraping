@@ -8,7 +8,6 @@ src/
 Makefile
 notebooks/.ipynb_checkpoints
 notebooks/summarizing in functions.ipynb
-requirements.txt
 setup.py
 test_environment.py
 tox.ini
