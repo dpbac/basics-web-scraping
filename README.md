@@ -2,7 +2,7 @@
 
 ![](https://github.com/dpbac/basics-web-scraping/blob/master/images/bond_webscraping.JPG)
 
-In this project/tutorial we introduce the basics of `web scraping`. This technique allows us retrieving data from websites which can be very handy specially when there are no datasets available or/and it is not possible to obtain such data via APIs.
+In this project/tutorial we introduce some basics on `web scraping`. This technique allows us retrieving data from websites which can be very handy specially when there are no datasets available or/and it is not possible to obtain such data via APIs.
 
 In our example it is possible to see how to obtain data from different websites having a basic knowledge on HTML and using some Python, and Python packages 
 
