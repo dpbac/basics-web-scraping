@@ -1,6 +1,6 @@
 # Basics on Web Scraping
 
-![](https://github.com/dpbac/basics-web-scraping/blob/master/images/bond_webscraping.JPG)
+![](https://github.com/dpbac/basics-web-scraping/blob/master/images/webpage_webscraping.JPG)
 
 In this project/tutorial we introduce some basics on `web scraping`. This technique allows us retrieving data from websites which can be very handy specially when there are no datasets available or/and it is not possible to obtain such data via APIs.
 
