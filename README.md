@@ -4,11 +4,15 @@
 
 In this project/tutorial we introduce some basics on `web scraping`. This technique allows us retrieving data from websites which can be very handy specially when there are no datasets available or/and it is not possible to obtain such data via APIs.
 
-In our example it is possible to see how to obtain data from different websites having a basic knowledge on HTML and using some Python, and Python packages 
+In our example it is possible to see how to obtain data from different websites having a basic knowledge on HTML and using some Python, and Python packages.
+
+The [notebook](https://github.com/dpbac/basics-web-scraping/blob/master/notebooks/Basic%20Tutorial%20Webscraping.ipynb) explains step-by-step the technique using an entertainment example. However, this technique is applicable to any case where obtaining (extra) data is necessary.
+
+A [blog](https://medium.com/p/12eba03bed1d/edit) was also written with the same but more compact presentation.
 
 ## Tools
 
-* [`request`](https://requests.readthedocs.io/en/master/): HTTP library for Python that allows us to send HTTP requests in a simple way.
+* [`requests`](https://requests.readthedocs.io/en/master/): HTTP library for Python that allows us to send HTTP requests in a simple way.
 
 * [`Beautiful Soup`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Python library for pulling data out of HTML and XML files. It allows us to access easily
 the information we need to retrieve.
