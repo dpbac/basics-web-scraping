@@ -8,7 +8,7 @@ In our example it is possible to see how to obtain data from different websites 
 
 The [notebook](https://github.com/dpbac/basics-web-scraping/blob/master/notebooks/Basic%20Tutorial%20Webscraping.ipynb) explains step-by-step the technique using an entertainment example. However, this technique is applicable to any case where obtaining (extra) data is necessary.
 
-A [blog](https://medium.com/p/12eba03bed1d/edit) was also written with the same but more compact presentation.
+A [blog](https://medium.com/@DPaesBarretto/basics-on-web-scraping-12eba03bed1d) was also written with the same but more compact presentation.
 
 ## :wrench: Tools
 
